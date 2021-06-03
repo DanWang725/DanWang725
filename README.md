@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Daniel Wang
+Hi, I’m Daniel Wang
+
+Planning to take CS at UofG!
+
 - 👀 I’m interested in coding in general
 - 🌱 I’m currently learning data science in R, C# scripting in unity
 - 📫 How to reach me: personal email: dw.smaug@gmail.com
