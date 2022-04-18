@@ -1,10 +1,14 @@
-Hi, I’m Daniel Wang.
+Hi, I’m Daniel Wang. I am a comp-sci major at University of Guelph. I enjoy doing coding problems, and probably(?) enjoys back-end programming more than front end.
+## Currently Programming Languages
+ - C in university
+ - C++ for competitive programming
+ - C# scripting for unity
 
-I am a student at University of Guelph, taking computer science.
-- 👀 I’m interested in coding in general
-- 🌱 I’m currently learning data science in R, C# scripting in unity
-- 📫 How to reach me: personal email: dw.smaug@gmail.com
-                      professional email: dwang0257@gmail.com
+## Contacts
+personal email: dw.smaug@gmail.com
+professional email: dwang0257@gmail.com
+
+Bogosort best sort btw
 
 <!---
 DanWang725/DanWang725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
